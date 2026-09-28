@@ -1,0 +1,703 @@
+{
+  "3D:RF:09:7F::001": {
+    "Name": "R1",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.1",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::002": {
+    "Name": "R2",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.2",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::003": {
+    "Name": "R3",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.3",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::004": {
+    "Name": "R4",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.4",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::005": {
+    "Name": "R5",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.5",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::006": {
+    "Name": "R6",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.6",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::007": {
+    "Name": "R7",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.7",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::008": {
+    "Name": "R8",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.8",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::009": {
+    "Name": "R9",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.9",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::010": {
+    "Name": "R10",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.10",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::011": {
+    "Name": "R11",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.11",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::012": {
+    "Name": "R12",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.12",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::013": {
+    "Name": "R13",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.13",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::014": {
+    "Name": "R14",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.14",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::015": {
+    "Name": "R15",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.15",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::016": {
+    "Name": "R16",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.16",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::017": {
+    "Name": "R17",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.17",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::018": {
+    "Name": "R18",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.18",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::019": {
+    "Name": "R19",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.19",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::020": {
+    "Name": "R20",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.20",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::021": {
+    "Name": "R21",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.21",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::022": {
+    "Name": "R22",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.22",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::023": {
+    "Name": "R23",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.23",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::024": {
+    "Name": "R24",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.24",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::025": {
+    "Name": "R25",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.25",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::026": {
+    "Name": "R26",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.26",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::027": {
+    "Name": "R27",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.27",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::028": {
+    "Name": "R28",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.28",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::029": {
+    "Name": "R29",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.29",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::030": {
+    "Name": "R30",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.30",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::031": {
+    "Name": "R31",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.31",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::032": {
+    "Name": "R32",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.32",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::033": {
+    "Name": "R33",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.33",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::034": {
+    "Name": "R34",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.34",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::035": {
+    "Name": "R35",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.35",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::036": {
+    "Name": "R36",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.36",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::037": {
+    "Name": "R37",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.37",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::038": {
+    "Name": "R38",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.38",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::039": {
+    "Name": "R39",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.39",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::040": {
+    "Name": "R40",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.40",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::041": {
+    "Name": "R41",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.41",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::042": {
+    "Name": "R42",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.42",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::043": {
+    "Name": "R43",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.43",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::044": {
+    "Name": "R44",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.44",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::045": {
+    "Name": "R45",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.45",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::046": {
+    "Name": "R46",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.46",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::047": {
+    "Name": "R47",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.47",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::048": {
+    "Name": "R48",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.48",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::049": {
+    "Name": "R49",
+    "Status": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.49",
+        "SSH": true
+      }
+    }
+  },
+  "3D:RF:09:7F::050": {
+    "Name": "R50",
+    "
+    ": "Active",
+    "Protocolos": ["OSPF", "ST"],
+    "VLANs": {
+      "VL1": {
+        "Ports": [],
+        "Plicies": [],
+        "ET": true,
+        "IP": "192.168.10.50",
+        "SSH": true
+      }
+    }
+  }
+}
